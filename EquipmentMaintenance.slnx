@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="EquipmentMaintenance.Api.Tests/EquipmentMaintenance.Api.Tests.csproj" />
   <Project Path="EquipmentMaintenance.Api/EquipmentMaintenance.Api.csproj" />
 </Solution>
